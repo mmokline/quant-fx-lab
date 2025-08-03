@@ -22,6 +22,7 @@ The project integrates classical models (**Black-Scholes**, **Binomial Trees**) 
 ---
 
 ## 📂 Planned Structure
+
 quant-fx-lab/
 ├── src/ # Core models & utilities
 ├── notebooks/ # Research & experiments
