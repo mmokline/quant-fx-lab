@@ -23,22 +23,27 @@ The project integrates classical models (**Black-Scholes**, **Binomial Trees**) 
 
 ## 📂 Planned Structure
 quant-fx-lab/
+
 ├── src/ # Core models & utilities
+
 ├── notebooks/ # Research & experiments
+
 ├── data/ # Sample FX & volatility data
+
 ├── tests/ # Unit tests
+
 └── dashboard/ # Streamlit app
 
 
 ---
 
 ## 🧩 Features (Planned)
-- ✅ FX option pricing (Black-Scholes, Binomial Trees)  
-- ✅ Volatility calibration (Implied Vol, GARCH, Heston)  
-- ✅ Hedging simulation with P&L tracking  
-- ✅ Interactive risk dashboard (Streamlit)  
-- 🚧 Monte Carlo pricing (coming soon)  
-- 🚧 Stochastic Local Volatility (future)  
+- FX option pricing (Black-Scholes, Binomial Trees)  
+- Volatility calibration (Implied Vol, GARCH, Heston)  
+- Hedging simulation with P&L tracking  
+- Interactive risk dashboard (Streamlit)  
+- Monte Carlo pricing (coming soon)  
+- Stochastic Local Volatility (future)  
 
 ---
 
@@ -50,7 +55,7 @@ quant-fx-lab/
 ---
 
 ## 📌 Status
-🚧 **In Progress**: Initial project setup & core pricing models.  
+**In Progress**: Initial project setup & core pricing models.  
 Future commits will include volatility calibration, hedging logic, and dashboard integration.
 
 ---
