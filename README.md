@@ -23,12 +23,12 @@ The project integrates classical models (**Black-Scholes**, **Binomial Trees**) 
 
 ## 📂 Planned Structure
 
-quant-fx-lab/
-├── src/ # Core models & utilities
-├── notebooks/ # Research & experiments
-├── data/ # Sample FX & volatility data
-├── tests/ # Unit tests
-└── dashboard/ # Streamlit app
+quant-fx-lab/  
+├── src/ # Core models & utilities  
+├── notebooks/ # Research & experiments  
+├── data/ # Sample FX & volatility data  
+├── tests/ # Unit tests  
+└── dashboard/ # Streamlit app  
 
 ---
 
